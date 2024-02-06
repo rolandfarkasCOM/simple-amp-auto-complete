@@ -14,6 +14,8 @@ Simply update your json object with the postcode list. This could be useful for 
 
 ## Version History
 
+* v1.0.0 Public Release
+
 * 0.2
     * Updated readme.md
 
