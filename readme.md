@@ -6,6 +6,7 @@ A simple AMP (Accelerated Mobile Pages) auto complete script.
 
 ## Getting Started
 
+Simply update your json object with the postcode list. This could be useful for an AMP postcode lookup API.
 
 ## Author:
 
